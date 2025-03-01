@@ -1,4 +1,4 @@
-// Given 2D array calculate the sum of diagonal elements.
+package Array;// Given 2D array calculate the sum of diagonal elements.
 
 // Example
 

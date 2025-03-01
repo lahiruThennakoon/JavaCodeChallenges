@@ -1,3 +1,5 @@
+package Swap;
+
 public class swappingTwonumbers {
 
     // Logic 1
